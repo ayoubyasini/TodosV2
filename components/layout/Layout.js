@@ -2,7 +2,7 @@ import Link from 'next/link';
 import {useSession , signOut} from "next-auth/react"
 import {VscListSelection} from "react-icons/vsc";
 import {BiMessageSquareDetail} from "react-icons/bi";
-import {MdSpaceDashboard} from "react-icons/Md";
+import {MdSpaceDashboard} from "react-icons/md";
 import { FiLogOut } from 'react-icons/fi';
 
 
